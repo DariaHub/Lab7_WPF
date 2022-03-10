@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Lab7_WPF.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="windowPosition1" Type="System.Windows.Rect" Scope="User">
+      <Value Profile="(Default)">0,0,0,0</Value>
+    </Setting>
+    <Setting Name="windowPosition2" Type="System.Windows.Rect" Scope="User">
+      <Value Profile="(Default)">0,0,0,0</Value>
+    </Setting>
+    <Setting Name="windowPosition3" Type="System.Windows.Rect" Scope="User">
+      <Value Profile="(Default)">0,0,0,0</Value>
+    </Setting>
+    <Setting Name="windowPosition4" Type="System.Windows.Rect" Scope="User">
+      <Value Profile="(Default)">0,0,0,0</Value>
+    </Setting>
+    <Setting Name="windowPosition5" Type="System.Windows.Rect" Scope="User">
+      <Value Profile="(Default)">0,0,0,0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
